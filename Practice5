@@ -8,5 +8,5 @@ Given: Base
 
     Derived2 d2=new Derived2();
 
-    Ans: Here base class constructor will run first then dervied1 and then derived2.
-    
+    Ans: Here base class constructor will run first then dervied1 and then derived2 if not overloaded.
+
