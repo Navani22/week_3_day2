@@ -1,0 +1,12 @@
+Q5. for given Hierarchy we have to tell which constructors will get executed and in what order.
+
+Given: Base
+        |
+    Derived1
+        |
+    Derived2
+
+    Derived2 d2=new Derived2();
+
+    Ans: Here base class constructor will run first then dervied1 and then derived2.
+    
